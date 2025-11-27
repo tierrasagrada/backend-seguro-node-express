@@ -8,7 +8,7 @@ El sistema permite mostrar imágenes, un slider dinámico (Ninja Slider), texto 
 
 🎯 ## Características Principales
 
-###🔹Frontend (HTML, CSS y JS)
+#🔹Frontend (HTML, CSS y JS)
 
  • Consumo del backend mediante fetch().
 
