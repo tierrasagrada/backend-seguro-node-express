@@ -6,9 +6,9 @@ El frontend está construido con HTML, CSS y JavaScript, y el backend utiliza No
 
 El sistema permite mostrar imágenes, un slider dinámico (Ninja Slider), texto y enlaces de YouTube, solo después de superar un filtro de acceso. Para proteger el contenido, se implementan diversas medidas orientadas al control de rutas, validación y seguridad entre cliente y servidor.
 
-🎯 ##Características Principales
+🎯 ## Características Principales
 
-🔹 ###Frontend (HTML, CSS y JS)
+🔹 ### Frontend (HTML, CSS y JS)
 
  • Consumo del backend mediante fetch().
 
