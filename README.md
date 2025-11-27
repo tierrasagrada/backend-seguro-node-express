@@ -29,13 +29,13 @@ Estructura del backend en la carpeta /api:
 
  • ```/validarRespuesta.js``` – valida el acceso e inicia el flujo seguro.
 
- • /obtenerImagenes.js – genera URLs temporales con JWT.
+ • ```/obtenerImagenes.js``` – genera URLs temporales con JWT.
 
- • /urlSeguraImagenes.js – sirve imágenes solo si el token es válido y coincide la IP.
+ • ```/urlSeguraImagenes.js``` – sirve imágenes solo si el token es válido y coincide la IP.
 
- • /csrf-token.js – genera token CSRF mediante cookies HTTP-Only.
+ • ```/csrf-token.js``` – genera token CSRF mediante cookies HTTP-Only.
 
- • /protectedimages/ – carpeta privada donde se almacenan las imágenes.
+ • ```/protectedimages/``` – carpeta privada donde se almacenan las imágenes.
 
 Medidas implementadas:
 
