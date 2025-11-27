@@ -27,7 +27,7 @@ El sistema permite mostrar imágenes, un slider dinámico (Ninja Slider), texto 
 🔹 Backend (Node.js + Express)
 Estructura del backend en la carpeta /api:
 
- • <code data-start="1591" data-end="1613">/validarRespuesta.js</code> – valida el acceso e inicia el flujo seguro.
+ • <code>/validarRespuesta.js</code> – valida el acceso e inicia el flujo seguro.
 
  • /obtenerImagenes.js – genera URLs temporales con JWT.
 
