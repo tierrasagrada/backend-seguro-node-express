@@ -1,6 +1,6 @@
 # Proyecto de Biografía Multimedia con Acceso Seguro
 
-Este proyecto es una aplicación web ligera basada en **HTML, CSS y JavaScript** en el frontend, y un backend construido en **Node.js + Express**, diseñada para presentar una biografía multimedia (texto, imágenes y videos) de forma controlada y segura. Todo el contenido se libera únicamente cuando el usuario responde correctamente una **pregunta de validación**.
+Este proyecto es una aplicación web ligera basada en **HTML, CSS y JavaScript** en el frontend, y un backend construido en **Node.js + Express**, diseñado para presentar una biografía multimedia (texto, imágenes y videos) de forma controlada y segura. Todo el contenido se libera únicamente cuando el usuario responde correctamente una **pregunta de validación**.
 
 ## 🔐 Seguridad Aplicada
 
