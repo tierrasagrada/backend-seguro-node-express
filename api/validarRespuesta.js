@@ -21,7 +21,7 @@ app.use(csrfProtection);
 // Configuración de intentos fallidos
 const MAX_ATTEMPTS = 5;
 const BLOCK_TIME = 15 * 60 * 1000; // 15 minutos
-const ANSWER = "bryan"; // Respuesta correcta
+const ANSWER = "juliocesar"; // Respuesta correcta
 const failedAttempts = new Map(); // Para rastrear intentos por IP
 
 // Middleware de Rate Limiting
@@ -187,3 +187,4 @@ const limiter = rateLimit({
   });
 
 export default app;
+
